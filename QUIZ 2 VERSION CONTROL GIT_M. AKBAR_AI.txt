@@ -1,0 +1,57 @@
+Nama   : M. Akbar
+Course : Artificial Intelligence In Industry 4.0 For Manufacturing Industry
+
+Pengenalan Git, Github dan Gitlab
+
+1. Git adalah sistem pengontrol versi terdistribusi yang dirancang untuk mengelola perubahan pada kode sumber selama pengembangan perangkat lunak. Git memungkinkan beberapa pengembang untuk bekerja pada proyek yang sama secara bersamaan dan melacak semua perubahan yang dilakukan pada kode. Ini memungkinkan tim untuk bekerja secara kolaboratif tanpa mengalami konflik yang sering terjadi saat menggabungkan perubahan. 
+
+Kelebihan dan Kelemahan Git
+
+Kelebihan 
+- Memiliki Keamanan yang baik untuk melakukan branching maupun Merging
+- Efisien dalam pengelolahan versi kode sumber
+- Performa yang cepat dan stabil dalam kode sumber.
+
+Kekurangan 
+- Sulit digunakan untuk pengelolaan biner atau non-teks
+- Fitur yang sukar dimengerti oleh orang awam 
+- Untuk menjalankan git diperlukan pemahaman yang baik tentang konsep dasarnya seperti repository, commit, merging dan branching
+
+2. GitHub adalah platform hosting untuk pengembangan perangkat lunak yang menggunakan sistem kontrol versi Git. Ini menyediakan berbagai fitur kolaboratif yang memungkinkan pengembang untuk bekerja sama pada proyek-proyek perangkat lunak, mengelola kode sumber, melacak perubahan, dan berbagi kode dengan tim atau komunitas yang lebih luas.
+Adapun 3 fitur mendasar dalam github, yaitu:
+
+- Forking
+Kegiatan menyalin repository yang sudah ada dan melakukan perubahan sesuai yang diinginkan kemudian menyimpan versi terbaru repository dan akan menjadi miliki sendiri.
+
+- Pull Request 
+Kegiatan untuk menginformasikan user bahwa Anda sudah memindahkan perubahan yang dilakukan pada branch ke master repository.
+-Merging 
+Penggabungan source coce yang telah diubah pada suatu brach ke brach lainnya.
+
+Kelebihan dan kekurangan GITHUB
+
+Kelebihan Github
+- Gratis 
+- Proyek bisa diakses oleh orang lain
+- Github bisa melacak perubahan yang terjadi di changelog
+- Bisa digunakan pada IDE seperti, Visual Code Studio, Eclipse dan lainnya
+
+Kekurangan Github 
+- Tidak memiliki keamanana yang baik untuk repositori pribadi
+- Memerluhkan koneksi internet yang stabil ketika ingin menggunakan Github
+- Memiliki batas untuk user ketika membuat repositori pribadi
+
+3. Gitlab adalah plaform open source yang memiliki fungsi pengolahan repository diamana user dapat berkolaborasi untuk mengerjakan suatu task atau code. Gitlab sendiri terdiri atas 4 versi yaitu : Gitlab.com, Gitlab Community Edition (Gitlab CE), Gitlab CI dan Gitlab Enterprise Edition.
+
+Kelebihan dan kekurangan Gitlab
+
+- Pemrosesan CI/CD yang mudah digunakan 
+- Keamanan yang tinggi 
+- Fitur kolaborasi yang lebih unggul 
+Kekurangan Gitlab 
+- Kompleks bagi orang awam 
+- Memiliki konfigurasi yang rumit
+- Sebagian gratis
+
+
+
